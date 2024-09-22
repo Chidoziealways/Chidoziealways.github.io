@@ -7,3 +7,9 @@ text-decoration: underline
     body{
     font-family: Yu Mincho
     }
+#first_button{
+    background-color: cyan
+}
+#first_link{
+    color: black
+}
