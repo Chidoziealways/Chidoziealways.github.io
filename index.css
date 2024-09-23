@@ -7,8 +7,8 @@ text-decoration: underline
     body{
     font-family: Yu Mincho
     }
-#first_button{
-    background-color: cyan
+button{
+    background-color: cyang
 }
 #first_link{
     color: black
